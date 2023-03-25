@@ -4,16 +4,14 @@ Shengming Yin is currently an undergraduate student in <a href="https://www.ustc
 
 [Google Scholar](https://scholar.google.com/citations?user=rzaiNqIAAAAJ&hl=zh-CN) / [Github](https://github.com/shengming-yin)
 
-### Recent News
-- [2023/3] Visual ChatGPT have been launched
-    -  <a href="https://arxiv.org/abs/2303.04671"> Arxiv </a>
-    -  <a href="https://github.com/microsoft/visual-chatgpt"> Github </a>
-    -  <a href="https://huggingface.co/spaces/microsoft/visual_chatgpt"> Hugging Face Space  </a>
 
 ### Research Experience
 - [2022/8 ~ Present] Research Intern, Microsoft Research Asia (Mentor: <a href="https://chenfei-wu.github.io/">Chenfei Wu</a> ).
 
 ### Publications
+- **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**. ([Homepage](https://msra-nuwa.azurewebsites.net/#/))
+  <br> Shengming Yin, Chenfei Wu, Huan Yang, Jianfeng Wang, Xiaodong Wang, Minheng Ni, Zhengyuan Yang, Linjie Li, Shuguang Liu, Fan Yang, Jianlong Fu, Gong Ming, Lijuan      Wang, Zicheng Liu, Houqiang Li, Nan Duan
+  <br> arXiv, 2023
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**. ([GitHub](https://github.com/microsoft/visual-chatgpt))
   <br> Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan.
   <br> arXiv, 2023.
