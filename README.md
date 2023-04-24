@@ -1,6 +1,6 @@
 ## Shengming Yin (殷晟明)
 
-Shengming Yin is currently an undergraduate student in <a href="https://www.ustc.edu.cn/">University of Science and Technology of China(USTC) </a> and <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia(MSRA)</a> , under the co-supervision of <a href="https://nanduan.github.io/"> Prof. Nan Duan </a> and <a href="http://staff.ustc.edu.cn/~lihq/en/"> Prof. Houqiang Li</a>. He will receive the B.S. degree from USTC in 2023.
+Shengming Yin is currently an undergraduate student in <a href="https://www.ustc.edu.cn/">University of Science and Technology of China(USTC) </a> and <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia(MSRA)</a> , under the co-supervision of <a href="https://nanduan.github.io/"> Prof. Nan Duan </a> and <a href="http://staff.ustc.edu.cn/~lihq/en/"> Prof. Houqiang Li</a>. He won the Guo Moruo Scholarship with the highest honors. He is expected to receive the B.S. degree from USTC in 2023.
 
 [Google Scholar](https://scholar.google.com/citations?user=rzaiNqIAAAAJ&hl=zh-CN) / [Github](https://github.com/shengming-yin)
 
