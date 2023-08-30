@@ -27,6 +27,7 @@ Shengming Yin is currently a master student in <a href="https://www.ustc.edu.cn/
 
 ### Selected Honors
 - [2023] Guo Moruo Scholarship (郭沫若奖学金, The highest honor in USTC).
+- [2023] Outstanding graduates of USTC.
 - [2022] China National Scholarship (国家奖学金)
 - [2021] China National Scholarship (国家奖学金)
 - [2019] First Prize, Outstanding Student Scholarship of USTC
