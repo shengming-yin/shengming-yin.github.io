@@ -9,12 +9,12 @@ Shengming Yin is currently a master student in <a href="https://www.ustc.edu.cn/
 - [2022/8 ~ Present] Research Intern, Microsoft Research Asia (Mentor: <a href="https://chenfei-wu.github.io/">Chenfei Wu</a> ).
 
 ### Publications
-- **DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory**. ([Homepage](https://www.microsoft.com/en-us/research/project/dragnuwa/))
+- **DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory**. ([Homepage](https://www.microsoft.com/en-us/research/project/dragnuwa/) [GitHub](https://github.com/ProjectNUWA/DragNUWA) [Demo](https://huggingface.co/spaces/yinsming/DragNUWA))
   <br> **Shengming Yin**, Chenfei Wu, Jian Liang, Jie Shi, Houqiang Li, Gong Ming, Nan Duan
   <br> arXiv, 2023
 - **ORES: Open-vocabulary Responsible Visual Synthesis**.
   <br> Minheng Ni, Chenfei Wu, Xiaodong Wang, **Shengming Yin**, Lijuan Wang, Zicheng Liu, Nan Duan
-  <br> arXiv, 2023
+  <br> AAAI, 2024
 - **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**. ([Homepage](https://msra-nuwa.azurewebsites.net/#/))
   <br> **Shengming Yin**, Chenfei Wu, Huan Yang, Jianfeng Wang, Xiaodong Wang, Minheng Ni, Zhengyuan Yang, Linjie Li, Shuguang Liu, Fan Yang, Jianlong Fu, Gong Ming, Lijuan      Wang, Zicheng Liu, Houqiang Li, Nan Duan
   <br> ACL, Oral, 2023
